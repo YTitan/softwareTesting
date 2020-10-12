@@ -14,8 +14,9 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="1" />
+          <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -25,7 +26,7 @@
           <entry key="class" value="1" />
           <entry key="iml" value="1" />
           <entry key="java" value="18" />
-          <entry key="part3" value="2" />
+          <entry key="part3" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -33,7 +34,7 @@
           <entry key="CLASS" value="1" />
           <entry key="IDEA_MODULE" value="1" />
           <entry key="JAVA" value="18" />
-          <entry key="UML" value="4" />
+          <entry key="UML" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -49,28 +50,20 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/st_lab1/part3/SpaceShip.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
+            <state relative-caret-position="663">
               <caret line="51" column="27" selection-start-line="51" selection-start-column="27" selection-end-line="51" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#184#185#0" expanded="true" />
-                <element signature="e#216#217#0" expanded="true" />
-                <element signature="e#543#544#0" expanded="true" />
-                <element signature="e#569#570#0" expanded="true" />
-                <element signature="e#642#643#0" expanded="true" />
-                <element signature="e#661#662#0" expanded="true" />
-                <element signature="e#1226#1227#0" expanded="true" />
-                <element signature="e#1252#1253#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/st_lab1/part3/Test3.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="653">
@@ -82,131 +75,162 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/st_lab1/part3/Fabric.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-              <folding>
-                <element signature="e#87#88#0" expanded="true" />
-                <element signature="e#128#129#0" expanded="true" />
-                <element signature="e#164#165#0" expanded="true" />
-                <element signature="e#234#235#0" expanded="true" />
-                <element signature="e#276#277#0" expanded="true" />
-                <element signature="e#329#330#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="uml://JAVA/st_lab1.part3">
           <provider selected="true" editor-type-id="UmlEditorProvider">
             <state>
               <ID>JAVA</ID>
               <OriginalElement>st_lab1.part3</OriginalElement>
               <nodes>
-                <node x="267.41666666666674" y="0.0">st_lab1.part3.PersonFeeling</node>
-                <node x="283.3020833333333" y="479.0">st_lab1.part3.Test3</node>
-                <node x="0.0" y="134.0">st_lab1.part3.Engine</node>
-                <node x="165.55208333333331" y="269.0">st_lab1.part3.SpaceShip</node>
-                <node x="410.3854166666667" y="156.5">st_lab1.part3.PhysicalPrinciple</node>
-                <node x="15.677083333333371" y="324.5">st_lab1.part3.PhotonEngine</node>
-                <node x="475.72569444444446" y="324.5">st_lab1.part3.AtomMoleculeRelationship</node>
-                <node x="0.0" y="553.0">st_lab1.part3.Fabric</node>
-                <node x="208.3854166666667" y="123.0">st_lab1.part3.Person</node>
+                <node x="251.49166666666662" y="780.0">st_lab1.part3.Test3</node>
+                <node x="296.1345238095239" y="0.0">st_lab1.part3.PersonFeeling</node>
+                <node x="34.25" y="134.0">st_lab1.part3.Engine</node>
+                <node x="170.14302721088427" y="292.0">st_lab1.part3.SpaceShip</node>
+                <node x="26.14302721088427" y="414.0">st_lab1.part3.PhotonEngine</node>
+                <node x="604.9644557823128" y="157.0">st_lab1.part3.PhysicalPrinciple</node>
+                <node x="639.1430272108843" y="403.0">st_lab1.part3.AtomMoleculeRelationship</node>
+                <node x="326.4763605442177" y="123.0">st_lab1.part3.Person</node>
+                <node x="239.99166666666662" y="625.0">st_lab1.part3.Fabric</node>
               </nodes>
               <notes />
               <edges>
                 <edge source="st_lab1.part3.Test3" target="st_lab1.part3.PhysicalPrinciple">
-                  <point x="8.333333333333314" y="-14.5" />
-                  <point x="329.13541666666663" y="429.0" />
-                  <point x="465.22569444444446" y="429.0" />
-                  <point x="465.22569444444446" y="249.0" />
-                  <point x="478.8854166666667" y="249.0" />
-                  <point x="0.0" y="14.5" />
+                  <point x="83.14285714285711" y="-47.5" />
+                  <point x="431.6345238095237" y="760.0" />
+                  <point x="841.6430272108843" y="760.0" />
+                  <point x="841.6430272108843" y="262.0" />
+                  <point x="724.8394557823128" y="262.0" />
+                  <point x="51.375" y="25.5" />
                 </edge>
-                <edge source="st_lab1.part3.AtomMoleculeRelationship" target="st_lab1.part3.PhysicalPrinciple">
-                  <point x="0.0" y="-14.5" />
-                  <point x="571.7256944444445" y="249.0" />
-                  <point x="524.5520833333334" y="249.0" />
-                  <point x="45.66666666666666" y="14.5" />
+                <edge source="st_lab1.part3.Fabric" target="st_lab1.part3.PhysicalPrinciple">
+                  <point x="54.25" y="-47.5" />
+                  <point x="402.7416666666666" y="595.0" />
+                  <point x="628.6430272108843" y="595.0" />
+                  <point x="628.6430272108843" y="272.0" />
+                  <point x="656.3394557823128" y="272.0" />
+                  <point x="-17.125" y="25.5" />
                 </edge>
-                <edge source="st_lab1.part3.PhotonEngine" target="st_lab1.part3.Engine">
-                  <point x="0.0" y="-14.5" />
-                  <point x="77.17708333333337" y="249.0" />
-                  <point x="63.0" y="249.0" />
-                  <point x="-21.0" y="37.0" />
-                </edge>
-                <edge source="st_lab1.part3.Person" target="st_lab1.part3.PersonFeeling">
-                  <point x="-45.5" y="-48.0" />
-                  <point x="253.8854166666667" y="98.0" />
-                  <point x="290.41666666666674" y="98.0" />
-                  <point x="-46.0" y="36.5" />
-                </edge>
-                <edge source="st_lab1.part3.SpaceShip" target="st_lab1.part3.Engine">
-                  <point x="-51.74999999999994" y="-70.0" />
-                  <point x="217.30208333333337" y="239.0" />
-                  <point x="147.0" y="239.0" />
-                  <point x="63.0" y="37.0" />
+                <edge source="st_lab1.part3.Fabric" target="st_lab1.part3.SpaceShip">
+                  <point x="18.083333333333314" y="-47.5" />
+                  <point x="366.57499999999993" y="605.0" />
+                  <point x="394.1430272108843" y="605.0" />
+                  <point x="5.6843418860808015E-14" y="136.5" />
                 </edge>
                 <edge source="st_lab1.part3.Test3" target="st_lab1.part3.SpaceShip">
-                  <point x="-8.333333333333314" y="-14.5" />
-                  <point x="312.46875" y="429.0" />
-                  <point x="217.30208333333331" y="429.0" />
-                  <point x="-51.75" y="70.0" />
+                  <point x="27.714285714285722" y="-47.5" />
+                  <point x="376.20595238095234" y="740.0" />
+                  <point x="467.4916666666666" y="740.0" />
+                  <point x="467.4916666666666" y="585.0" />
+                  <point x="543.4763605442176" y="585.0" />
+                  <point x="149.33333333333331" y="136.5" />
+                </edge>
+                <edge source="st_lab1.part3.Fabric" target="st_lab1.part3.AtomMoleculeRelationship">
+                  <point x="90.41666666666669" y="-47.5" />
+                  <point x="438.9083333333333" y="605.0" />
+                  <point x="687.1430272108843" y="605.0" />
+                  <point x="-48.0" y="25.5" />
                 </edge>
                 <edge source="st_lab1.part3.Test3" target="st_lab1.part3.PersonFeeling">
-                  <point x="33.333333333333314" y="-14.5" />
-                  <point x="354.13541666666663" y="459.0" />
-                  <point x="678.2256944444445" y="459.0" />
-                  <point x="678.2256944444445" y="98.0" />
-                  <point x="382.41666666666674" y="98.0" />
-                  <point x="46.0" y="36.5" />
+                  <point x="-83.14285714285711" y="-47.5" />
+                  <point x="265.3488095238095" y="760.0" />
+                  <point x="0.0" y="760.0" />
+                  <point x="0.0" y="98.0" />
+                  <point x="319.1345238095239" y="98.0" />
+                  <point x="-46.0" y="36.5" />
                 </edge>
                 <edge source="st_lab1.part3.Test3" target="st_lab1.part3.PhotonEngine">
-                  <point x="-25.0" y="-14.5" />
-                  <point x="295.8020833333333" y="449.0" />
-                  <point x="46.42708333333337" y="449.0" />
+                  <point x="-27.714285714285666" y="-47.5" />
+                  <point x="320.77738095238095" y="740.0" />
+                  <point x="56.89302721088427" y="740.0" />
                   <point x="-30.75" y="14.5" />
                 </edge>
                 <edge source="st_lab1.part3.SpaceShip" target="st_lab1.part3.Person">
-                  <point x="17.250000000000057" y="-70.0" />
-                  <point x="286.30208333333337" y="249.0" />
-                  <point x="299.38541666666674" y="249.0" />
-                  <point x="0.0" y="48.0" />
+                  <point x="37.33333333333343" y="-136.5" />
+                  <point x="0.0" y="59.5" />
+                </edge>
+                <edge source="st_lab1.part3.Fabric" target="st_lab1.part3.Engine">
+                  <point x="-54.25" y="-47.5" />
+                  <point x="294.2416666666666" y="595.0" />
+                  <point x="159.64302721088427" y="595.0" />
+                  <point x="159.64302721088427" y="272.0" />
+                  <point x="131.25" y="272.0" />
+                  <point x="0.0" y="48.5" />
+                </edge>
+                <edge source="st_lab1.part3.AtomMoleculeRelationship" target="st_lab1.part3.PhysicalPrinciple">
+                  <point x="0.0" y="-25.5" />
+                  <point x="735.1430272108843" y="272.0" />
+                  <point x="690.5894557823128" y="272.0" />
+                  <point x="17.125" y="25.5" />
+                </edge>
+                <edge source="st_lab1.part3.PhotonEngine" target="st_lab1.part3.Engine">
+                  <point x="0.0" y="-14.5" />
+                  <point x="87.64302721088427" y="272.0" />
+                  <point x="92.44999999999999" y="272.0" />
+                  <point x="-38.8" y="48.5" />
+                </edge>
+                <edge source="st_lab1.part3.SpaceShip" target="st_lab1.part3.Engine">
+                  <point x="-186.66666666666663" y="-136.5" />
+                  <point x="207.47636054421764" y="272.0" />
+                  <point x="170.05" y="272.0" />
+                  <point x="38.80000000000001" y="48.5" />
+                </edge>
+                <edge source="st_lab1.part3.Person" target="st_lab1.part3.PersonFeeling">
+                  <point x="-52.5" y="-59.5" />
+                  <point x="378.9763605442177" y="98.0" />
+                  <point x="365.1345238095239" y="98.0" />
+                  <point x="0.0" y="36.5" />
+                </edge>
+                <edge source="st_lab1.part3.Fabric" target="st_lab1.part3.PhotonEngine">
+                  <point x="-90.41666666666666" y="-47.5" />
+                  <point x="258.07499999999993" y="605.0" />
+                  <point x="118.39302721088427" y="605.0" />
+                  <point x="30.75" y="14.5" />
                 </edge>
                 <edge source="st_lab1.part3.Test3" target="st_lab1.part3.AtomMoleculeRelationship">
-                  <point x="16.666666666666686" y="-14.5" />
-                  <point x="337.46875" y="439.0" />
-                  <point x="523.7256944444445" y="439.0" />
-                  <point x="-48.0" y="14.5" />
+                  <point x="55.428571428571445" y="-47.5" />
+                  <point x="403.92023809523806" y="750.0" />
+                  <point x="783.1430272108843" y="750.0" />
+                  <point x="48.0" y="25.5" />
+                </edge>
+                <edge source="st_lab1.part3.Test3" target="st_lab1.part3.Fabric">
+                  <point x="0.0" y="-47.5" />
+                  <point x="0.0" y="47.5" />
                 </edge>
                 <edge source="st_lab1.part3.Test3" target="st_lab1.part3.Engine">
-                  <point x="-33.333333333333314" y="-14.5" />
-                  <point x="287.46875" y="459.0" />
-                  <point x="5.177083333333371" y="459.0" />
-                  <point x="5.177083333333371" y="249.0" />
-                  <point x="21.0" y="249.0" />
-                  <point x="-63.0" y="37.0" />
+                  <point x="-55.428571428571445" y="-47.5" />
+                  <point x="293.0630952380952" y="750.0" />
+                  <point x="15.64302721088427" y="750.0" />
+                  <point x="15.64302721088427" y="272.0" />
+                  <point x="53.64999999999998" y="272.0" />
+                  <point x="-77.60000000000002" y="48.5" />
                 </edge>
                 <edge source="st_lab1.part3.SpaceShip" target="st_lab1.part3.PhysicalPrinciple">
-                  <point x="86.25000000000006" y="-70.0" />
-                  <point x="355.30208333333337" y="249.0" />
-                  <point x="433.21875000000006" y="249.0" />
-                  <point x="-45.66666666666666" y="14.5" />
+                  <point x="186.6666666666668" y="-136.5" />
+                  <point x="580.8096938775511" y="272.0" />
+                  <point x="622.0894557823128" y="272.0" />
+                  <point x="-51.375" y="25.5" />
                 </edge>
               </edges>
-              <settings layout="Hierarchic Group" zoom="1.0" x="-414.5" y="125.0" />
+              <settings layout="Hierarchic Group" zoom="0.9" x="209.41666666666663" y="462.94444444444457" />
               <SelectedNodes>
-                <node>st_lab1.part3.PersonFeeling</node>
+                <node>st_lab1.part3.Test3</node>
               </SelectedNodes>
               <Categories>
                 <Category>Fields</Category>
                 <Category>Constructors</Category>
+                <Category>Methods</Category>
               </Categories>
               <SCOPE>All</SCOPE>
               <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/st_lab1/part3/Fabric.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -216,10 +240,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
               <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-              <folding>
-                <element signature="e#115#116#0" expanded="true" />
-                <element signature="e#138#139#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -238,10 +258,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
               <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-              <folding>
-                <element signature="e#180#181#0" expanded="true" />
-                <element signature="e#210#211#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -259,7 +275,7 @@
         <entry file="file://$PROJECT_DIR$/src/st_lab1/part3/PhotonEngine.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" column="42" lean-forward="true" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
+              <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -269,12 +285,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
               <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
-              <folding>
-                <element signature="e#114#115#0" expanded="true" />
-                <element signature="e#135#136#0" expanded="true" />
-                <element signature="e#100#101#0" expanded="true" />
-                <element signature="e#124#125#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -331,9 +341,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -360,6 +369,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -443,6 +453,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602408819954</updated>
       <workItem from="1602408824030" duration="32874000" />
+      <workItem from="1602487787357" duration="417000" />
     </task>
     <servers />
   </component>
@@ -479,23 +490,19 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32874000" />
+    <option name="totallyTimeSpent" value="33291000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11513859" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.116204694" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" weight="0.329718" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.33188722" />
@@ -503,15 +510,20 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.329718" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -535,10 +547,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="197">
           <caret line="152" column="25" selection-start-line="152" selection-start-column="25" selection-end-line="152" selection-end-column="25" />
-          <folding>
-            <element signature="e#5875#5876#0" expanded="true" />
-            <element signature="e#5956#5957#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -553,10 +561,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="194">
           <caret line="146" column="11" selection-start-line="146" selection-start-column="11" selection-end-line="146" selection-end-column="11" />
-          <folding>
-            <element signature="e#5447#5448#0" expanded="true" />
-            <element signature="e#5487#5488#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -603,13 +607,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/st_lab1/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/st_lab1/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/st_lab1/SecTests.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
@@ -624,30 +622,75 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/st_lab1/part3/Engine.java">
+    <entry file="uml://JAVA/st_lab1.part3.Test3">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>st_lab1.part3.Test3</OriginalElement>
+          <nodes>
+            <node x="" y="">st_lab1.part3.Test3</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.1" x="42.0" y="-33.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram/D:/MyFiles/ITMO/Year4/SoftwareTesting/lab1/st_lab1/src/st_lab1/part3">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/src/st_lab1/part3</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="830.0" y="283.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/st_lab1/part3/SpaceShip.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+        <state relative-caret-position="663">
+          <caret line="51" column="27" selection-start-line="51" selection-start-column="27" selection-end-line="51" selection-end-column="27" />
           <folding>
-            <element signature="e#114#115#0" expanded="true" />
-            <element signature="e#135#136#0" expanded="true" />
-            <element signature="e#100#101#0" expanded="true" />
-            <element signature="e#124#125#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/st_lab1/part3/PhotonEngine.java">
+    <entry file="file://$PROJECT_DIR$/src/st_lab1/part3/Fabric.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="42" lean-forward="true" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
+        <state relative-caret-position="68">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+          <folding>
+            <element signature="e#87#88#0" expanded="true" />
+            <element signature="e#128#129#0" expanded="true" />
+            <element signature="e#164#165#0" expanded="true" />
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#276#277#0" expanded="true" />
+            <element signature="e#329#330#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/st_lab1/part3/PersonFeeling.java">
+    <entry file="file://$PROJECT_DIR$/src/st_lab1/part3/AtomMoleculeRelationship.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+          <folding>
+            <element signature="e#115#116#0" expanded="true" />
+            <element signature="e#138#139#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -669,191 +712,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="uml://JAVA/st_lab1.part3.Test3">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>st_lab1.part3.Test3</OriginalElement>
-          <nodes>
-            <node x="" y="">st_lab1.part3.Test3</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.1" x="41.72077922077949" y="-32.66233766233762" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JavaScript-modules-diagram/D:/MyFiles/ITMO/Year4/SoftwareTesting/lab1/st_lab1/src/st_lab1/part3">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JavaScript-modules-diagram</ID>
-          <OriginalElement>$PROJECT_DIR$/src/st_lab1/part3</OriginalElement>
-          <nodes />
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="830.0" y="282.5" />
-          <SelectedNodes />
-          <Categories>
-            <Category>All</Category>
-          </Categories>
-          <VISIBILITY>Details</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/st_lab1/part3/AtomMoleculeRelationship.java">
+    <entry file="file://$PROJECT_DIR$/src/st_lab1/part3/PersonFeeling.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-          <folding>
-            <element signature="e#115#116#0" expanded="true" />
-            <element signature="e#138#139#0" expanded="true" />
-          </folding>
+          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/st_lab1/part3/SpaceShip.java">
+    <entry file="file://$PROJECT_DIR$/src/st_lab1/part3/PhotonEngine.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="51" column="27" selection-start-line="51" selection-start-column="27" selection-end-line="51" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#184#185#0" expanded="true" />
-            <element signature="e#216#217#0" expanded="true" />
-            <element signature="e#543#544#0" expanded="true" />
-            <element signature="e#569#570#0" expanded="true" />
-            <element signature="e#642#643#0" expanded="true" />
-            <element signature="e#661#662#0" expanded="true" />
-            <element signature="e#1226#1227#0" expanded="true" />
-            <element signature="e#1252#1253#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="34">
+          <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="uml://JAVA/st_lab1.part3">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>st_lab1.part3</OriginalElement>
-          <nodes>
-            <node x="267.41666666666674" y="0.0">st_lab1.part3.PersonFeeling</node>
-            <node x="283.3020833333333" y="479.0">st_lab1.part3.Test3</node>
-            <node x="0.0" y="134.0">st_lab1.part3.Engine</node>
-            <node x="165.55208333333331" y="269.0">st_lab1.part3.SpaceShip</node>
-            <node x="410.3854166666667" y="156.5">st_lab1.part3.PhysicalPrinciple</node>
-            <node x="15.677083333333371" y="324.5">st_lab1.part3.PhotonEngine</node>
-            <node x="475.72569444444446" y="324.5">st_lab1.part3.AtomMoleculeRelationship</node>
-            <node x="0.0" y="553.0">st_lab1.part3.Fabric</node>
-            <node x="208.3854166666667" y="123.0">st_lab1.part3.Person</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="st_lab1.part3.Test3" target="st_lab1.part3.PhysicalPrinciple">
-              <point x="8.333333333333314" y="-14.5" />
-              <point x="329.13541666666663" y="429.0" />
-              <point x="465.22569444444446" y="429.0" />
-              <point x="465.22569444444446" y="249.0" />
-              <point x="478.8854166666667" y="249.0" />
-              <point x="0.0" y="14.5" />
-            </edge>
-            <edge source="st_lab1.part3.AtomMoleculeRelationship" target="st_lab1.part3.PhysicalPrinciple">
-              <point x="0.0" y="-14.5" />
-              <point x="571.7256944444445" y="249.0" />
-              <point x="524.5520833333334" y="249.0" />
-              <point x="45.66666666666666" y="14.5" />
-            </edge>
-            <edge source="st_lab1.part3.PhotonEngine" target="st_lab1.part3.Engine">
-              <point x="0.0" y="-14.5" />
-              <point x="77.17708333333337" y="249.0" />
-              <point x="63.0" y="249.0" />
-              <point x="-21.0" y="37.0" />
-            </edge>
-            <edge source="st_lab1.part3.Person" target="st_lab1.part3.PersonFeeling">
-              <point x="-45.5" y="-48.0" />
-              <point x="253.8854166666667" y="98.0" />
-              <point x="290.41666666666674" y="98.0" />
-              <point x="-46.0" y="36.5" />
-            </edge>
-            <edge source="st_lab1.part3.SpaceShip" target="st_lab1.part3.Engine">
-              <point x="-51.74999999999994" y="-70.0" />
-              <point x="217.30208333333337" y="239.0" />
-              <point x="147.0" y="239.0" />
-              <point x="63.0" y="37.0" />
-            </edge>
-            <edge source="st_lab1.part3.Test3" target="st_lab1.part3.SpaceShip">
-              <point x="-8.333333333333314" y="-14.5" />
-              <point x="312.46875" y="429.0" />
-              <point x="217.30208333333331" y="429.0" />
-              <point x="-51.75" y="70.0" />
-            </edge>
-            <edge source="st_lab1.part3.Test3" target="st_lab1.part3.PersonFeeling">
-              <point x="33.333333333333314" y="-14.5" />
-              <point x="354.13541666666663" y="459.0" />
-              <point x="678.2256944444445" y="459.0" />
-              <point x="678.2256944444445" y="98.0" />
-              <point x="382.41666666666674" y="98.0" />
-              <point x="46.0" y="36.5" />
-            </edge>
-            <edge source="st_lab1.part3.Test3" target="st_lab1.part3.PhotonEngine">
-              <point x="-25.0" y="-14.5" />
-              <point x="295.8020833333333" y="449.0" />
-              <point x="46.42708333333337" y="449.0" />
-              <point x="-30.75" y="14.5" />
-            </edge>
-            <edge source="st_lab1.part3.SpaceShip" target="st_lab1.part3.Person">
-              <point x="17.250000000000057" y="-70.0" />
-              <point x="286.30208333333337" y="249.0" />
-              <point x="299.38541666666674" y="249.0" />
-              <point x="0.0" y="48.0" />
-            </edge>
-            <edge source="st_lab1.part3.Test3" target="st_lab1.part3.AtomMoleculeRelationship">
-              <point x="16.666666666666686" y="-14.5" />
-              <point x="337.46875" y="439.0" />
-              <point x="523.7256944444445" y="439.0" />
-              <point x="-48.0" y="14.5" />
-            </edge>
-            <edge source="st_lab1.part3.Test3" target="st_lab1.part3.Engine">
-              <point x="-33.333333333333314" y="-14.5" />
-              <point x="287.46875" y="459.0" />
-              <point x="5.177083333333371" y="459.0" />
-              <point x="5.177083333333371" y="249.0" />
-              <point x="21.0" y="249.0" />
-              <point x="-63.0" y="37.0" />
-            </edge>
-            <edge source="st_lab1.part3.SpaceShip" target="st_lab1.part3.PhysicalPrinciple">
-              <point x="86.25000000000006" y="-70.0" />
-              <point x="355.30208333333337" y="249.0" />
-              <point x="433.21875000000006" y="249.0" />
-              <point x="-45.66666666666666" y="14.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-414.5" y="125.0" />
-          <SelectedNodes>
-            <node>st_lab1.part3.PersonFeeling</node>
-          </SelectedNodes>
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Constructors</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/st_lab1/part3/Fabric.java">
+    <entry file="file://$PROJECT_DIR$/src/st_lab1/part3/Engine.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        <state relative-caret-position="34">
+          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
           <folding>
-            <element signature="e#87#88#0" expanded="true" />
-            <element signature="e#128#129#0" expanded="true" />
-            <element signature="e#164#165#0" expanded="true" />
-            <element signature="e#234#235#0" expanded="true" />
-            <element signature="e#276#277#0" expanded="true" />
-            <element signature="e#329#330#0" expanded="true" />
+            <element signature="e#114#115#0" expanded="true" />
+            <element signature="e#135#136#0" expanded="true" />
+            <element signature="e#100#101#0" expanded="true" />
+            <element signature="e#124#125#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -865,6 +746,155 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/st_lab1.part3">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>st_lab1.part3</OriginalElement>
+          <nodes>
+            <node x="251.49166666666662" y="780.0">st_lab1.part3.Test3</node>
+            <node x="296.1345238095239" y="0.0">st_lab1.part3.PersonFeeling</node>
+            <node x="34.25" y="134.0">st_lab1.part3.Engine</node>
+            <node x="170.14302721088427" y="292.0">st_lab1.part3.SpaceShip</node>
+            <node x="26.14302721088427" y="414.0">st_lab1.part3.PhotonEngine</node>
+            <node x="604.9644557823128" y="157.0">st_lab1.part3.PhysicalPrinciple</node>
+            <node x="639.1430272108843" y="403.0">st_lab1.part3.AtomMoleculeRelationship</node>
+            <node x="326.4763605442177" y="123.0">st_lab1.part3.Person</node>
+            <node x="239.99166666666662" y="625.0">st_lab1.part3.Fabric</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="st_lab1.part3.Test3" target="st_lab1.part3.PhysicalPrinciple">
+              <point x="83.14285714285711" y="-47.5" />
+              <point x="431.6345238095237" y="760.0" />
+              <point x="841.6430272108843" y="760.0" />
+              <point x="841.6430272108843" y="262.0" />
+              <point x="724.8394557823128" y="262.0" />
+              <point x="51.375" y="25.5" />
+            </edge>
+            <edge source="st_lab1.part3.Fabric" target="st_lab1.part3.PhysicalPrinciple">
+              <point x="54.25" y="-47.5" />
+              <point x="402.7416666666666" y="595.0" />
+              <point x="628.6430272108843" y="595.0" />
+              <point x="628.6430272108843" y="272.0" />
+              <point x="656.3394557823128" y="272.0" />
+              <point x="-17.125" y="25.5" />
+            </edge>
+            <edge source="st_lab1.part3.Fabric" target="st_lab1.part3.SpaceShip">
+              <point x="18.083333333333314" y="-47.5" />
+              <point x="366.57499999999993" y="605.0" />
+              <point x="394.1430272108843" y="605.0" />
+              <point x="5.6843418860808015E-14" y="136.5" />
+            </edge>
+            <edge source="st_lab1.part3.Test3" target="st_lab1.part3.SpaceShip">
+              <point x="27.714285714285722" y="-47.5" />
+              <point x="376.20595238095234" y="740.0" />
+              <point x="467.4916666666666" y="740.0" />
+              <point x="467.4916666666666" y="585.0" />
+              <point x="543.4763605442176" y="585.0" />
+              <point x="149.33333333333331" y="136.5" />
+            </edge>
+            <edge source="st_lab1.part3.Fabric" target="st_lab1.part3.AtomMoleculeRelationship">
+              <point x="90.41666666666669" y="-47.5" />
+              <point x="438.9083333333333" y="605.0" />
+              <point x="687.1430272108843" y="605.0" />
+              <point x="-48.0" y="25.5" />
+            </edge>
+            <edge source="st_lab1.part3.Test3" target="st_lab1.part3.PersonFeeling">
+              <point x="-83.14285714285711" y="-47.5" />
+              <point x="265.3488095238095" y="760.0" />
+              <point x="0.0" y="760.0" />
+              <point x="0.0" y="98.0" />
+              <point x="319.1345238095239" y="98.0" />
+              <point x="-46.0" y="36.5" />
+            </edge>
+            <edge source="st_lab1.part3.Test3" target="st_lab1.part3.PhotonEngine">
+              <point x="-27.714285714285666" y="-47.5" />
+              <point x="320.77738095238095" y="740.0" />
+              <point x="56.89302721088427" y="740.0" />
+              <point x="-30.75" y="14.5" />
+            </edge>
+            <edge source="st_lab1.part3.SpaceShip" target="st_lab1.part3.Person">
+              <point x="37.33333333333343" y="-136.5" />
+              <point x="0.0" y="59.5" />
+            </edge>
+            <edge source="st_lab1.part3.Fabric" target="st_lab1.part3.Engine">
+              <point x="-54.25" y="-47.5" />
+              <point x="294.2416666666666" y="595.0" />
+              <point x="159.64302721088427" y="595.0" />
+              <point x="159.64302721088427" y="272.0" />
+              <point x="131.25" y="272.0" />
+              <point x="0.0" y="48.5" />
+            </edge>
+            <edge source="st_lab1.part3.AtomMoleculeRelationship" target="st_lab1.part3.PhysicalPrinciple">
+              <point x="0.0" y="-25.5" />
+              <point x="735.1430272108843" y="272.0" />
+              <point x="690.5894557823128" y="272.0" />
+              <point x="17.125" y="25.5" />
+            </edge>
+            <edge source="st_lab1.part3.PhotonEngine" target="st_lab1.part3.Engine">
+              <point x="0.0" y="-14.5" />
+              <point x="87.64302721088427" y="272.0" />
+              <point x="92.44999999999999" y="272.0" />
+              <point x="-38.8" y="48.5" />
+            </edge>
+            <edge source="st_lab1.part3.SpaceShip" target="st_lab1.part3.Engine">
+              <point x="-186.66666666666663" y="-136.5" />
+              <point x="207.47636054421764" y="272.0" />
+              <point x="170.05" y="272.0" />
+              <point x="38.80000000000001" y="48.5" />
+            </edge>
+            <edge source="st_lab1.part3.Person" target="st_lab1.part3.PersonFeeling">
+              <point x="-52.5" y="-59.5" />
+              <point x="378.9763605442177" y="98.0" />
+              <point x="365.1345238095239" y="98.0" />
+              <point x="0.0" y="36.5" />
+            </edge>
+            <edge source="st_lab1.part3.Fabric" target="st_lab1.part3.PhotonEngine">
+              <point x="-90.41666666666666" y="-47.5" />
+              <point x="258.07499999999993" y="605.0" />
+              <point x="118.39302721088427" y="605.0" />
+              <point x="30.75" y="14.5" />
+            </edge>
+            <edge source="st_lab1.part3.Test3" target="st_lab1.part3.AtomMoleculeRelationship">
+              <point x="55.428571428571445" y="-47.5" />
+              <point x="403.92023809523806" y="750.0" />
+              <point x="783.1430272108843" y="750.0" />
+              <point x="48.0" y="25.5" />
+            </edge>
+            <edge source="st_lab1.part3.Test3" target="st_lab1.part3.Fabric">
+              <point x="0.0" y="-47.5" />
+              <point x="0.0" y="47.5" />
+            </edge>
+            <edge source="st_lab1.part3.Test3" target="st_lab1.part3.Engine">
+              <point x="-55.428571428571445" y="-47.5" />
+              <point x="293.0630952380952" y="750.0" />
+              <point x="15.64302721088427" y="750.0" />
+              <point x="15.64302721088427" y="272.0" />
+              <point x="53.64999999999998" y="272.0" />
+              <point x="-77.60000000000002" y="48.5" />
+            </edge>
+            <edge source="st_lab1.part3.SpaceShip" target="st_lab1.part3.PhysicalPrinciple">
+              <point x="186.6666666666668" y="-136.5" />
+              <point x="580.8096938775511" y="272.0" />
+              <point x="622.0894557823128" y="272.0" />
+              <point x="-51.375" y="25.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.9" x="209.41666666666663" y="462.94444444444457" />
+          <SelectedNodes>
+            <node>st_lab1.part3.Test3</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
         </state>
       </provider>
     </entry>

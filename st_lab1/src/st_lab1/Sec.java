@@ -12,13 +12,17 @@ public class Sec implements TestFunction{
         double sign = 1;
         double t = 1;
         double fact = 1;
+        double delta = 1;
+        double k = 0;
         for (int i = 0; i < numTerms; ++i){
-            res += sign * t / fact;
+            //delta = sign * t / fact;
+            res += delta;
 
-            double k = 2*(i+1);
-            fact *= k * (k - 1);
-            t *= x*x;
-            sign *= -1;
+            k += 2;
+            //fact *= k * (k - 1);
+            //t *= x*x;
+            //sign *= -1;
+            delta *=  x * x  / k / (k - 1) * -1;
         }
 
         return res;

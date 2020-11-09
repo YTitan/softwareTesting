@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b31a6dbc-3a10-42b3-9d41-0520a68b156b" name="Default Changelist" comment="" />
+    <list default="true" id="b31a6dbc-3a10-42b3-9d41-0520a68b156b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/st_lab1/st_lab1/Sec.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/st_lab1/st_lab1/Sec.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/st_lab1/st_lab1/part3/Test3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/st_lab1/st_lab1/part3/Test3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/st_lab1/Sec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/st_lab1/Sec.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../~$t_lab1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../~WRL0003.tmp" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,10 +20,13 @@
     <session id="-931417288">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -25,7 +35,7 @@
           <entry key="Test3" value="1" />
           <entry key="class" value="1" />
           <entry key="iml" value="1" />
-          <entry key="java" value="18" />
+          <entry key="java" value="25" />
           <entry key="part3" value="3" />
         </counts>
       </usages-collector>
@@ -33,18 +43,18 @@
         <counts>
           <entry key="CLASS" value="1" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="18" />
+          <entry key="JAVA" value="25" />
           <entry key="UML" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="10594" />
+          <entry key="java" value="10767" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="10594" />
+          <entry key="JAVA" value="10767" />
         </counts>
       </usages-collector>
     </session>
@@ -52,9 +62,69 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/st_lab1/TestFunction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/st_lab1/Sec.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" selection-start-line="17" selection-end-line="24" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/st_lab1/SecTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/st_lab1/HeapSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1088">
+              <caret line="72" column="13" selection-start-line="70" selection-start-column="12" selection-end-line="72" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/st_lab1/SortTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="748">
+              <caret line="46" column="42" selection-start-line="46" selection-start-column="42" selection-end-line="46" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/st_lab1/part3/Engine.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/st_lab1/part3/SpaceShip.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
+            <state relative-caret-position="748">
               <caret line="51" column="27" selection-start-line="51" selection-start-column="27" selection-end-line="51" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -66,207 +136,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/st_lab1/part3/Test3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="653">
-              <caret line="39" column="39" selection-start-line="39" selection-start-column="39" selection-end-line="39" selection-end-column="39" />
+            <state relative-caret-position="510">
+              <caret line="30" column="42" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="uml://JAVA/st_lab1.part3">
-          <provider selected="true" editor-type-id="UmlEditorProvider">
-            <state>
-              <ID>JAVA</ID>
-              <OriginalElement>st_lab1.part3</OriginalElement>
-              <nodes>
-                <node x="251.49166666666662" y="780.0">st_lab1.part3.Test3</node>
-                <node x="296.1345238095239" y="0.0">st_lab1.part3.PersonFeeling</node>
-                <node x="34.25" y="134.0">st_lab1.part3.Engine</node>
-                <node x="170.14302721088427" y="292.0">st_lab1.part3.SpaceShip</node>
-                <node x="26.14302721088427" y="414.0">st_lab1.part3.PhotonEngine</node>
-                <node x="604.9644557823128" y="157.0">st_lab1.part3.PhysicalPrinciple</node>
-                <node x="639.1430272108843" y="403.0">st_lab1.part3.AtomMoleculeRelationship</node>
-                <node x="326.4763605442177" y="123.0">st_lab1.part3.Person</node>
-                <node x="239.99166666666662" y="625.0">st_lab1.part3.Fabric</node>
-              </nodes>
-              <notes />
-              <edges>
-                <edge source="st_lab1.part3.Test3" target="st_lab1.part3.PhysicalPrinciple">
-                  <point x="83.14285714285711" y="-47.5" />
-                  <point x="431.6345238095237" y="760.0" />
-                  <point x="841.6430272108843" y="760.0" />
-                  <point x="841.6430272108843" y="262.0" />
-                  <point x="724.8394557823128" y="262.0" />
-                  <point x="51.375" y="25.5" />
-                </edge>
-                <edge source="st_lab1.part3.Fabric" target="st_lab1.part3.PhysicalPrinciple">
-                  <point x="54.25" y="-47.5" />
-                  <point x="402.7416666666666" y="595.0" />
-                  <point x="628.6430272108843" y="595.0" />
-                  <point x="628.6430272108843" y="272.0" />
-                  <point x="656.3394557823128" y="272.0" />
-                  <point x="-17.125" y="25.5" />
-                </edge>
-                <edge source="st_lab1.part3.Fabric" target="st_lab1.part3.SpaceShip">
-                  <point x="18.083333333333314" y="-47.5" />
-                  <point x="366.57499999999993" y="605.0" />
-                  <point x="394.1430272108843" y="605.0" />
-                  <point x="5.6843418860808015E-14" y="136.5" />
-                </edge>
-                <edge source="st_lab1.part3.Test3" target="st_lab1.part3.SpaceShip">
-                  <point x="27.714285714285722" y="-47.5" />
-                  <point x="376.20595238095234" y="740.0" />
-                  <point x="467.4916666666666" y="740.0" />
-                  <point x="467.4916666666666" y="585.0" />
-                  <point x="543.4763605442176" y="585.0" />
-                  <point x="149.33333333333331" y="136.5" />
-                </edge>
-                <edge source="st_lab1.part3.Fabric" target="st_lab1.part3.AtomMoleculeRelationship">
-                  <point x="90.41666666666669" y="-47.5" />
-                  <point x="438.9083333333333" y="605.0" />
-                  <point x="687.1430272108843" y="605.0" />
-                  <point x="-48.0" y="25.5" />
-                </edge>
-                <edge source="st_lab1.part3.Test3" target="st_lab1.part3.PersonFeeling">
-                  <point x="-83.14285714285711" y="-47.5" />
-                  <point x="265.3488095238095" y="760.0" />
-                  <point x="0.0" y="760.0" />
-                  <point x="0.0" y="98.0" />
-                  <point x="319.1345238095239" y="98.0" />
-                  <point x="-46.0" y="36.5" />
-                </edge>
-                <edge source="st_lab1.part3.Test3" target="st_lab1.part3.PhotonEngine">
-                  <point x="-27.714285714285666" y="-47.5" />
-                  <point x="320.77738095238095" y="740.0" />
-                  <point x="56.89302721088427" y="740.0" />
-                  <point x="-30.75" y="14.5" />
-                </edge>
-                <edge source="st_lab1.part3.SpaceShip" target="st_lab1.part3.Person">
-                  <point x="37.33333333333343" y="-136.5" />
-                  <point x="0.0" y="59.5" />
-                </edge>
-                <edge source="st_lab1.part3.Fabric" target="st_lab1.part3.Engine">
-                  <point x="-54.25" y="-47.5" />
-                  <point x="294.2416666666666" y="595.0" />
-                  <point x="159.64302721088427" y="595.0" />
-                  <point x="159.64302721088427" y="272.0" />
-                  <point x="131.25" y="272.0" />
-                  <point x="0.0" y="48.5" />
-                </edge>
-                <edge source="st_lab1.part3.AtomMoleculeRelationship" target="st_lab1.part3.PhysicalPrinciple">
-                  <point x="0.0" y="-25.5" />
-                  <point x="735.1430272108843" y="272.0" />
-                  <point x="690.5894557823128" y="272.0" />
-                  <point x="17.125" y="25.5" />
-                </edge>
-                <edge source="st_lab1.part3.PhotonEngine" target="st_lab1.part3.Engine">
-                  <point x="0.0" y="-14.5" />
-                  <point x="87.64302721088427" y="272.0" />
-                  <point x="92.44999999999999" y="272.0" />
-                  <point x="-38.8" y="48.5" />
-                </edge>
-                <edge source="st_lab1.part3.SpaceShip" target="st_lab1.part3.Engine">
-                  <point x="-186.66666666666663" y="-136.5" />
-                  <point x="207.47636054421764" y="272.0" />
-                  <point x="170.05" y="272.0" />
-                  <point x="38.80000000000001" y="48.5" />
-                </edge>
-                <edge source="st_lab1.part3.Person" target="st_lab1.part3.PersonFeeling">
-                  <point x="-52.5" y="-59.5" />
-                  <point x="378.9763605442177" y="98.0" />
-                  <point x="365.1345238095239" y="98.0" />
-                  <point x="0.0" y="36.5" />
-                </edge>
-                <edge source="st_lab1.part3.Fabric" target="st_lab1.part3.PhotonEngine">
-                  <point x="-90.41666666666666" y="-47.5" />
-                  <point x="258.07499999999993" y="605.0" />
-                  <point x="118.39302721088427" y="605.0" />
-                  <point x="30.75" y="14.5" />
-                </edge>
-                <edge source="st_lab1.part3.Test3" target="st_lab1.part3.AtomMoleculeRelationship">
-                  <point x="55.428571428571445" y="-47.5" />
-                  <point x="403.92023809523806" y="750.0" />
-                  <point x="783.1430272108843" y="750.0" />
-                  <point x="48.0" y="25.5" />
-                </edge>
-                <edge source="st_lab1.part3.Test3" target="st_lab1.part3.Fabric">
-                  <point x="0.0" y="-47.5" />
-                  <point x="0.0" y="47.5" />
-                </edge>
-                <edge source="st_lab1.part3.Test3" target="st_lab1.part3.Engine">
-                  <point x="-55.428571428571445" y="-47.5" />
-                  <point x="293.0630952380952" y="750.0" />
-                  <point x="15.64302721088427" y="750.0" />
-                  <point x="15.64302721088427" y="272.0" />
-                  <point x="53.64999999999998" y="272.0" />
-                  <point x="-77.60000000000002" y="48.5" />
-                </edge>
-                <edge source="st_lab1.part3.SpaceShip" target="st_lab1.part3.PhysicalPrinciple">
-                  <point x="186.6666666666668" y="-136.5" />
-                  <point x="580.8096938775511" y="272.0" />
-                  <point x="622.0894557823128" y="272.0" />
-                  <point x="-51.375" y="25.5" />
-                </edge>
-              </edges>
-              <settings layout="Hierarchic Group" zoom="0.9" x="209.41666666666663" y="462.94444444444457" />
-              <SelectedNodes>
-                <node>st_lab1.part3.Test3</node>
-              </SelectedNodes>
-              <Categories>
-                <Category>Fields</Category>
-                <Category>Constructors</Category>
-                <Category>Methods</Category>
-              </Categories>
-              <SCOPE>All</SCOPE>
-              <VISIBILITY>private</VISIBILITY>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/st_lab1/part3/Fabric.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/st_lab1/part3/AtomMoleculeRelationship.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/st_lab1/part3/PhysicalPrinciple.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/st_lab1/part3/Person.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/st_lab1/part3/PersonFeeling.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -276,15 +150,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
               <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/st_lab1/part3/Engine.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -300,6 +165,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -309,7 +177,6 @@
         <option value="$PROJECT_DIR$/src/st_lab1/TestFunction.java" />
         <option value="$PROJECT_DIR$/src/st_lab1/Main.java" />
         <option value="$PROJECT_DIR$/src/st_lab1/TestCase.java" />
-        <option value="$PROJECT_DIR$/src/st_lab1/Sec.java" />
         <option value="$PROJECT_DIR$/src/st_lab1/SecTests.java" />
         <option value="$PROJECT_DIR$/src/st_lab1/HeapSort.java" />
         <option value="$PROJECT_DIR$/src/st_lab1/SortTest.java" />
@@ -322,6 +189,7 @@
         <option value="$PROJECT_DIR$/src/st_lab1/part3/SpaceShip.java" />
         <option value="$PROJECT_DIR$/src/st_lab1/part3/Fabric.java" />
         <option value="$PROJECT_DIR$/src/st_lab1/part3/Test3.java" />
+        <option value="$PROJECT_DIR$/src/st_lab1/Sec.java" />
       </list>
     </option>
   </component>
@@ -332,15 +200,18 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="953" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
@@ -369,7 +240,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -378,7 +248,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1602486501435" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1604878353555" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -397,7 +267,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Test3">
+  <component name="RunManager" selected="JUnit.SecTest">
     <configuration name="Unnamed" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="st_lab1.Main" />
       <module name="st_lab1" />
@@ -453,29 +323,14 @@
       <option name="presentableId" value="Default" />
       <updated>1602408819954</updated>
       <workItem from="1602408824030" duration="32874000" />
-      <workItem from="1602487787357" duration="417000" />
+      <workItem from="1602487787357" duration="2342000" />
+      <workItem from="1603652775226" duration="230000" />
+      <workItem from="1604874174152" duration="1711000" />
+      <workItem from="1604883732527" duration="1177000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SortTest - 2020.10.11 at 21h 02m 03s.xml">
-      <configuration name="SortTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SortTest - 2020.10.11 at 21h 10m 50s.xml">
-      <configuration name="SortTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SortTest - 2020.10.11 at 21h 29m 25s.xml">
-      <configuration name="SortTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SortTest - 2020.10.11 at 21h 29m 56s.xml">
-      <configuration name="SortTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SortTest - 2020.10.11 at 21h 32m 48s.xml">
-      <configuration name="SortTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SortTest - 2020.10.11 at 21h 36m 01s.xml">
-      <configuration name="SortTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="SortTest - 2020.10.11 at 21h 39m 30s.xml">
       <configuration name="SortTest" configurationId="JUnit" />
     </history-entry>
@@ -488,15 +343,33 @@
     <history-entry file="Test3 - 2020.10.11 at 22h 43m 28s.xml">
       <configuration name="Test3" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="SecTest - 2020.11.09 at 01h 36m 51s.xml">
+      <configuration name="SecTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SecTest - 2020.11.09 at 01h 37m 11s.xml">
+      <configuration name="SecTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SecTest - 2020.11.09 at 01h 38m 00s.xml">
+      <configuration name="SecTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SecTest - 2020.11.09 at 01h 39m 12s.xml">
+      <configuration name="SecTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SecTest - 2020.11.09 at 01h 39m 58s.xml">
+      <configuration name="SecTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SecTest - 2020.11.09 at 01h 41m 31s.xml">
+      <configuration name="SecTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33291000" />
+    <option name="totallyTimeSpent" value="38334000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.116204694" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09914712" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -514,7 +387,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.329718" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.329718" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -550,13 +423,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/st_lab1/Sec.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/src.zip!/java/util/Vector.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="194">
@@ -571,57 +437,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/st_lab1/TestFunction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/st_lab1/HeapSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="71" column="57" selection-start-line="71" selection-start-column="57" selection-end-line="71" selection-end-column="57" />
-          <folding>
-            <element signature="e#227#228#0" expanded="true" />
-            <element signature="e#275#276#0" expanded="true" />
-            <element signature="e#579#580#0" expanded="true" />
-            <element signature="e#627#628#0" expanded="true" />
-            <element signature="e#671#672#0" expanded="true" />
-            <element signature="e#709#710#0" expanded="true" />
-            <element signature="e#753#754#0" expanded="true" />
-            <element signature="e#795#796#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/st_lab1/SortTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-146">
-          <caret line="39" column="26" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#147#148#0" expanded="true" />
-            <element signature="e#173#174#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/st_lab1/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/st_lab1/SecTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#237#238#0" expanded="true" />
-            <element signature="e#268#269#0" expanded="true" />
-            <element signature="e#474#475#0" expanded="true" />
-            <element signature="e#546#547#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="uml://JAVA/st_lab1.part3.Test3">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
@@ -658,28 +474,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/st_lab1/part3/SpaceShip.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="51" column="27" selection-start-line="51" selection-start-column="27" selection-end-line="51" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/st_lab1/part3/Fabric.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-          <folding>
-            <element signature="e#87#88#0" expanded="true" />
-            <element signature="e#128#129#0" expanded="true" />
-            <element signature="e#164#165#0" expanded="true" />
-            <element signature="e#234#235#0" expanded="true" />
-            <element signature="e#276#277#0" expanded="true" />
-            <element signature="e#329#330#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -687,10 +485,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-          <folding>
-            <element signature="e#115#116#0" expanded="true" />
-            <element signature="e#138#139#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -705,10 +499,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-          <folding>
-            <element signature="e#180#181#0" expanded="true" />
-            <element signature="e#210#211#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -719,174 +509,97 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/st_lab1/part3/PhotonEngine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/st_lab1/part3/Engine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
-          <folding>
-            <element signature="e#114#115#0" expanded="true" />
-            <element signature="e#135#136#0" expanded="true" />
-            <element signature="e#100#101#0" expanded="true" />
-            <element signature="e#124#125#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/st_lab1/part3/Test3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="653">
-          <caret line="39" column="39" selection-start-line="39" selection-start-column="39" selection-end-line="39" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="uml://JAVA/st_lab1.part3">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
           <ID>JAVA</ID>
           <OriginalElement>st_lab1.part3</OriginalElement>
           <nodes>
-            <node x="251.49166666666662" y="780.0">st_lab1.part3.Test3</node>
-            <node x="296.1345238095239" y="0.0">st_lab1.part3.PersonFeeling</node>
-            <node x="34.25" y="134.0">st_lab1.part3.Engine</node>
-            <node x="170.14302721088427" y="292.0">st_lab1.part3.SpaceShip</node>
-            <node x="26.14302721088427" y="414.0">st_lab1.part3.PhotonEngine</node>
-            <node x="604.9644557823128" y="157.0">st_lab1.part3.PhysicalPrinciple</node>
-            <node x="639.1430272108843" y="403.0">st_lab1.part3.AtomMoleculeRelationship</node>
-            <node x="326.4763605442177" y="123.0">st_lab1.part3.Person</node>
-            <node x="239.99166666666662" y="625.0">st_lab1.part3.Fabric</node>
+            <node x="356.00000000000006" y="0.0">st_lab1.part3.PersonFeeling</node>
+            <node x="0.0" y="134.0">st_lab1.part3.Engine</node>
+            <node x="166.00000000000003" y="292.0">st_lab1.part3.SpaceShip</node>
+            <node x="23.0" y="414.0">st_lab1.part3.PhotonEngine</node>
+            <node x="685.3916666666667" y="157.0">st_lab1.part3.PhysicalPrinciple</node>
+            <node x="634.0" y="403.0">st_lab1.part3.AtomMoleculeRelationship</node>
+            <node x="320.00000000000006" y="123.0">st_lab1.part3.Person</node>
+            <node x="281.50000000000006" y="625.0">st_lab1.part3.Fabric</node>
           </nodes>
           <notes />
           <edges>
-            <edge source="st_lab1.part3.Test3" target="st_lab1.part3.PhysicalPrinciple">
-              <point x="83.14285714285711" y="-47.5" />
-              <point x="431.6345238095237" y="760.0" />
-              <point x="841.6430272108843" y="760.0" />
-              <point x="841.6430272108843" y="262.0" />
-              <point x="724.8394557823128" y="262.0" />
-              <point x="51.375" y="25.5" />
-            </edge>
-            <edge source="st_lab1.part3.Fabric" target="st_lab1.part3.PhysicalPrinciple">
-              <point x="54.25" y="-47.5" />
-              <point x="402.7416666666666" y="595.0" />
-              <point x="628.6430272108843" y="595.0" />
-              <point x="628.6430272108843" y="272.0" />
-              <point x="656.3394557823128" y="272.0" />
-              <point x="-17.125" y="25.5" />
-            </edge>
-            <edge source="st_lab1.part3.Fabric" target="st_lab1.part3.SpaceShip">
-              <point x="18.083333333333314" y="-47.5" />
-              <point x="366.57499999999993" y="605.0" />
-              <point x="394.1430272108843" y="605.0" />
-              <point x="5.6843418860808015E-14" y="136.5" />
-            </edge>
-            <edge source="st_lab1.part3.Test3" target="st_lab1.part3.SpaceShip">
-              <point x="27.714285714285722" y="-47.5" />
-              <point x="376.20595238095234" y="740.0" />
-              <point x="467.4916666666666" y="740.0" />
-              <point x="467.4916666666666" y="585.0" />
-              <point x="543.4763605442176" y="585.0" />
-              <point x="149.33333333333331" y="136.5" />
-            </edge>
-            <edge source="st_lab1.part3.Fabric" target="st_lab1.part3.AtomMoleculeRelationship">
-              <point x="90.41666666666669" y="-47.5" />
-              <point x="438.9083333333333" y="605.0" />
-              <point x="687.1430272108843" y="605.0" />
-              <point x="-48.0" y="25.5" />
-            </edge>
-            <edge source="st_lab1.part3.Test3" target="st_lab1.part3.PersonFeeling">
-              <point x="-83.14285714285711" y="-47.5" />
-              <point x="265.3488095238095" y="760.0" />
-              <point x="0.0" y="760.0" />
-              <point x="0.0" y="98.0" />
-              <point x="319.1345238095239" y="98.0" />
-              <point x="-46.0" y="36.5" />
-            </edge>
-            <edge source="st_lab1.part3.Test3" target="st_lab1.part3.PhotonEngine">
-              <point x="-27.714285714285666" y="-47.5" />
-              <point x="320.77738095238095" y="740.0" />
-              <point x="56.89302721088427" y="740.0" />
-              <point x="-30.75" y="14.5" />
-            </edge>
-            <edge source="st_lab1.part3.SpaceShip" target="st_lab1.part3.Person">
-              <point x="37.33333333333343" y="-136.5" />
-              <point x="0.0" y="59.5" />
-            </edge>
-            <edge source="st_lab1.part3.Fabric" target="st_lab1.part3.Engine">
-              <point x="-54.25" y="-47.5" />
-              <point x="294.2416666666666" y="595.0" />
-              <point x="159.64302721088427" y="595.0" />
-              <point x="159.64302721088427" y="272.0" />
-              <point x="131.25" y="272.0" />
-              <point x="0.0" y="48.5" />
-            </edge>
             <edge source="st_lab1.part3.AtomMoleculeRelationship" target="st_lab1.part3.PhysicalPrinciple">
               <point x="0.0" y="-25.5" />
-              <point x="735.1430272108843" y="272.0" />
-              <point x="690.5894557823128" y="272.0" />
-              <point x="17.125" y="25.5" />
+              <point x="730.0" y="272.0" />
+              <point x="753.8916666666667" y="272.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="st_lab1.part3.Fabric" target="st_lab1.part3.PhysicalPrinciple">
+              <point x="90.41666666666663" y="-47.5" />
+              <point x="480.4166666666667" y="605.0" />
+              <point x="836.5" y="605.0" />
+              <point x="836.5" y="272.0" />
+              <point x="799.5583333333333" y="272.0" />
+              <point x="45.66666666666663" y="25.5" />
             </edge>
             <edge source="st_lab1.part3.PhotonEngine" target="st_lab1.part3.Engine">
               <point x="0.0" y="-14.5" />
-              <point x="87.64302721088427" y="272.0" />
-              <point x="92.44999999999999" y="272.0" />
-              <point x="-38.8" y="48.5" />
+              <point x="84.5" y="272.0" />
+              <point x="72.75" y="272.0" />
+              <point x="-24.25" y="48.5" />
             </edge>
             <edge source="st_lab1.part3.SpaceShip" target="st_lab1.part3.Engine">
-              <point x="-186.66666666666663" y="-136.5" />
-              <point x="207.47636054421764" y="272.0" />
-              <point x="170.05" y="272.0" />
-              <point x="38.80000000000001" y="48.5" />
+              <point x="-186.66666666666669" y="-136.5" />
+              <point x="203.33333333333334" y="272.0" />
+              <point x="121.25" y="272.0" />
+              <point x="24.25" y="48.5" />
             </edge>
             <edge source="st_lab1.part3.Person" target="st_lab1.part3.PersonFeeling">
               <point x="-52.5" y="-59.5" />
-              <point x="378.9763605442177" y="98.0" />
-              <point x="365.1345238095239" y="98.0" />
-              <point x="0.0" y="36.5" />
+              <point x="372.50000000000006" y="98.0" />
+              <point x="390.50000000000006" y="98.0" />
+              <point x="-34.5" y="36.5" />
+            </edge>
+            <edge source="st_lab1.part3.Fabric" target="st_lab1.part3.SpaceShip">
+              <point x="18.083333333333314" y="-47.5" />
+              <point x="408.08333333333337" y="585.0" />
+              <point x="502.0" y="585.0" />
+              <point x="112.0" y="136.5" />
+            </edge>
+            <edge source="st_lab1.part3.Fabric" target="st_lab1.part3.AtomMoleculeRelationship">
+              <point x="54.25" y="-47.5" />
+              <point x="444.25000000000006" y="595.0" />
+              <point x="730.0" y="595.0" />
+              <point x="0.0" y="25.5" />
             </edge>
             <edge source="st_lab1.part3.Fabric" target="st_lab1.part3.PhotonEngine">
-              <point x="-90.41666666666666" y="-47.5" />
-              <point x="258.07499999999993" y="605.0" />
-              <point x="118.39302721088427" y="605.0" />
-              <point x="30.75" y="14.5" />
+              <point x="-54.25" y="-47.5" />
+              <point x="335.75000000000006" y="595.0" />
+              <point x="84.5" y="595.0" />
+              <point x="0.0" y="14.5" />
             </edge>
-            <edge source="st_lab1.part3.Test3" target="st_lab1.part3.AtomMoleculeRelationship">
-              <point x="55.428571428571445" y="-47.5" />
-              <point x="403.92023809523806" y="750.0" />
-              <point x="783.1430272108843" y="750.0" />
-              <point x="48.0" y="25.5" />
+            <edge source="st_lab1.part3.SpaceShip" target="st_lab1.part3.Person">
+              <point x="-37.333333333333314" y="-136.5" />
+              <point x="352.66666666666674" y="272.0" />
+              <point x="355.00000000000006" y="272.0" />
+              <point x="-70.0" y="59.5" />
             </edge>
-            <edge source="st_lab1.part3.Test3" target="st_lab1.part3.Fabric">
-              <point x="0.0" y="-47.5" />
-              <point x="0.0" y="47.5" />
-            </edge>
-            <edge source="st_lab1.part3.Test3" target="st_lab1.part3.Engine">
-              <point x="-55.428571428571445" y="-47.5" />
-              <point x="293.0630952380952" y="750.0" />
-              <point x="15.64302721088427" y="750.0" />
-              <point x="15.64302721088427" y="272.0" />
-              <point x="53.64999999999998" y="272.0" />
-              <point x="-77.60000000000002" y="48.5" />
+            <edge source="st_lab1.part3.Fabric" target="st_lab1.part3.Engine">
+              <point x="-90.41666666666663" y="-47.5" />
+              <point x="299.5833333333334" y="605.0" />
+              <point x="12.5" y="605.0" />
+              <point x="12.5" y="272.0" />
+              <point x="24.25" y="272.0" />
+              <point x="-72.75" y="48.5" />
             </edge>
             <edge source="st_lab1.part3.SpaceShip" target="st_lab1.part3.PhysicalPrinciple">
-              <point x="186.6666666666668" y="-136.5" />
-              <point x="580.8096938775511" y="272.0" />
-              <point x="622.0894557823128" y="272.0" />
-              <point x="-51.375" y="25.5" />
+              <point x="186.66666666666674" y="-136.5" />
+              <point x="576.6666666666667" y="272.0" />
+              <point x="708.2249999999999" y="272.0" />
+              <point x="-45.666666666666664" y="25.5" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="0.9" x="209.41666666666663" y="462.94444444444457" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-353.0" y="220.0" />
           <SelectedNodes>
-            <node>st_lab1.part3.Test3</node>
+            <node>st_lab1.part3.Fabric</node>
           </SelectedNodes>
           <Categories>
             <Category>Fields</Category>
@@ -895,6 +608,81 @@
           </Categories>
           <SCOPE>All</SCOPE>
           <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/st_lab1/TestFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/st_lab1/SecTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/st_lab1/HeapSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1088">
+          <caret line="72" column="13" selection-start-line="70" selection-start-column="12" selection-end-line="72" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/st_lab1/SortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="46" column="42" selection-start-line="46" selection-start-column="42" selection-end-line="46" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/st_lab1/part3/Engine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/st_lab1/part3/SpaceShip.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="51" column="27" selection-start-line="51" selection-start-column="27" selection-end-line="51" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/st_lab1/part3/Test3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="42" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/st_lab1/part3/PhotonEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/st_lab1/Sec.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="24" selection-end-column="48" />
         </state>
       </provider>
     </entry>
@@ -938,7 +726,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.6</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -955,7 +743,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
